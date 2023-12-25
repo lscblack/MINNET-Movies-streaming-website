@@ -1,10 +1,9 @@
-Certainly! Here's a README file for the MINNET streaming movie website:
 
 ---
 
 # MINNET Movies - Streaming Website
 
-MINNET Movies is an online streaming platform built using React, Express, MySQL, Axios, CORS, and various authentication methodologies. The website is designed with Bootstrap for styling and incorporates Font Awesome for icons.
+MINNET Movies is an online streaming platform **(Template)** built using React, Express, MySQL, Axios, CORS, and various authentication methodologies. The website is designed with Bootstrap for styling and incorporates Font Awesome for icons.
 
 ### Demo Preview
 [![Click to watch the demo preview](images/img1.png)](https://www.canva.com/design/DAF3a_fFvIM/8Gz_hP9sToxyhZKDV3Dh0w/watch?utm_content=DAF3a_fFvIM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
